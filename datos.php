@@ -1,0 +1,6 @@
+<?php
+    $mailDestino= "*******";
+    $motivo="Contacto";
+
+
+?>
